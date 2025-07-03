@@ -56,7 +56,13 @@ Prima Wrap, a family-owned business in Niagara Falls, Ontario, Canada, previousl
 
 ## 📸 Screenshots
 
-_Screenshots would be added here from the presentation files_
+### Main Application Interface
+
+![Main Application Interface](web/assets/presentation/pwplp.png)
+
+### Application Features
+
+![Application Features](web/assets/presentation/pwplp2.png)
 
 ## 🚀 Installation
 
