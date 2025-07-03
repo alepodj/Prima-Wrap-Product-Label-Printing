@@ -1,0 +1,5 @@
+Eel==0.14.0
+pandas==2.2.3
+simplejson==3.19.3
+zebra==0.1.0
+zplgrf==1.6.0
