@@ -1,4 +1,4 @@
-# Prima Wrap Product Label Printing v4
+# Prima Wrap Product Label Printing
 
 [![Python](https://img.shields.io/badge/Python-3.13.0-blue.svg)](https://www.python.org/)
 [![Eel](https://img.shields.io/badge/Eel-0.14.0-green.svg)](https://github.com/python-eel/Eel)
